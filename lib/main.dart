@@ -6,7 +6,7 @@ void main() => runApp(
           backgroundColor: Colors.blueGrey,
           appBar: AppBar(
             title: Text("I am so Rich"),
-            backgroundColor: Colors.blueGrey[950],
+            backgroundColor: Colors.blueGrey[925],
           ),
           body: Center(
             child: Image(
